@@ -1,4 +1,4 @@
-# 暑訓講義：打造你的微型 AI Agent
+# 暑訓講義：AI工具
 
 不是教你用 ChatGPT，是自己動手寫一個會查資料、會操作電腦的 AI agent。
 
@@ -10,7 +10,7 @@
 ## 其他版本
 
 - 投影片（課堂用）：[Slides.com](https://slides.com/ck11400667/aitools)
-- 線上筆記版：[HackMD](https://hackmd.io/@FObDA6rXRKSTsKAP5phQWw/HyEjQD5XGg)
+- 線上詳細講義：[HackMD](https://hackmd.io/@FObDA6rXRKSTsKAP5phQWw/HyEjQD5XGg)
 
 ## 快速開始
 
