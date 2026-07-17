@@ -9,8 +9,8 @@
 
 ## 其他版本
 
-- 投影片（課堂用）：[Slides.com]([https://slides.com/ck11400667/aitools](https://slides.com/ck11400667/aitools_agent))
-- 線上詳細講義：[Markdown]([https://hackmd.io/@FObDA6rXRKSTsKAP5phQWw/HyEjQD5XGg](https://github.com/wayne091106-hash/ckefgisc_summercamp2026_aitools/blob/main/%E6%9A%91%E8%A8%93%E8%AC%9B%E7%BE%A9_AI%E5%B7%A5%E5%85%B7.md))
+- 投影片（課堂用）：[Slides.com](https://slides.com/ck11400667/aitools_agent)
+- 線上詳細講義：[Markdown](https://github.com/wayne091106-hash/ckefgisc_summercamp2026_aitools/blob/main/%E6%9A%91%E8%A8%93%E8%AC%9B%E7%BE%A9_AI%E5%B7%A5%E5%85%B7.md)
 
 ## 快速開始
 
